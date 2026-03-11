@@ -40,15 +40,15 @@
 
 - 🐍 Python — pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn
 - 🧠 Machine Learning — regression, classification, ensemble methods, hyperparameter tuning
-- 🌐 Web — PHP, HTML/CSS
+- 🌐 Web & Viz — PHP, HTML/CSS, Tableau
 - ⚙️ Embedded — C++, IoT systems
 
 ---
 
 ## 💬 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-korah-bino-206512230/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](elijahbino369@gmail.com)
 
 ---
 
